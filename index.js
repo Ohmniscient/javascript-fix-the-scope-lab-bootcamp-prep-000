@@ -12,6 +12,7 @@ var animal = 'cat'
   return animal
 }
 
+var n = 122
 function add2(n) {
   return n + two
 
